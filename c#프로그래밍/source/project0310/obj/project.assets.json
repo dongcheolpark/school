@@ -8,31 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\head0\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/bagdongcheol/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\head0\\programming\\school\\c#프로그래밍\\source\\project0310\\project0310.csproj",
+      "projectUniqueName": "/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0310/project0310.csproj",
       "projectName": "project0310",
-      "projectPath": "C:\\Users\\head0\\programming\\school\\c#프로그래밍\\source\\project0310\\project0310.csproj",
-      "packagesPath": "C:\\Users\\head0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\head0\\programming\\school\\c#프로그래밍\\source\\project0310\\obj\\",
+      "projectPath": "/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0310/project0310.csproj",
+      "packagesPath": "/Users/bagdongcheol/.nuget/packages/",
+      "outputPath": "/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0310/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\head0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/bagdongcheol/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,7 +6,12 @@ namespace project0310
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello,world!");
+            int a =1;
+            Console.WriteLine(a);
+            Console.WriteLine(a++);
+            Console.WriteLine(a);
+            string result = "123" + "456";
+            Console.WriteLine(result);
         }
     }
 }
