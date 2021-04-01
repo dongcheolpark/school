@@ -1,6 +1,0 @@
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/bin/Debug/project0318.exe
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/bin/Debug/project0318.pdb
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/obj/Debug/project0318.csprojAssemblyReference.cache
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/obj/Debug/project0318.csproj.CoreCompileInputs.cache
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/obj/Debug/project0318.exe
-/Users/bagdongcheol/programming/school/c#프로그래밍/source/project0318/project0318/obj/Debug/project0318.pdb
