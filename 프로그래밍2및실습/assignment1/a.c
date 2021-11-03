@@ -62,6 +62,8 @@ int main(int argc,char * argv[]) {
 	print(arr);
 	printf("축하합니다!\n");
 	sleep(3);
+	for(int i = 0;i<N;i++) free(arr[i]);
+	free(arr);
 	return 0;
 }
 
