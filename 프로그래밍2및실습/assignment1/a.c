@@ -112,7 +112,7 @@ void setup(int ** arr,int num) {
 		srand((unsigned)time(NULL));
 		for(int i = 0;i<15;i++) {
 			int randNum = rand()%15;
-			swap((*arr)+i,(*arr)+randNum);
+			swap(*(arr + i/4)+i%4,*(arr+randNum/4)+randNum%4);
 		}
 	}
 }
