@@ -58,7 +58,6 @@ int main(int argc,char * argv[]) {
 		else if(a == 'l') chk_move = move(arr,3);
 		if(!chk_move) continue;
 	}while(!check(arr,chk_move));
-	puts("");
 	system("clear");
 	print(arr);
 	printf("축하합니다!\n");
